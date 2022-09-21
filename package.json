@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Sdott3/Social-Network-API#readme",
   "dependencies": {
     "mongoose": "^6.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
   }
 }
